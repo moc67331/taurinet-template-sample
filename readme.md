@@ -29,7 +29,7 @@ dotnet new tauri-net
 
 4. Remove unnecessary folders (It's setup scripts)  
 ```bat
-REN for windows on cmd.exe
+REM for windows on cmd.exe
 rmdir /s /q .\setup
 ```
 
